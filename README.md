@@ -9,4 +9,4 @@ Please check https://github.com/hkim09/DAramp_darkening for dataset in HDF5 form
 * /fl : fiber fluorometry signal (z-scored, sampled at 200Hz)
 * /grp_idx: experimental condition
 
-plot_darkening_results.m plot population psths from the dataset.
+plot_darkening_results.m plots population psths from the dataset.
