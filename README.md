@@ -1,7 +1,7 @@
 # DAramp_darkening
 
 This dataset was used to generate Figure 5 and Figure S3.
-Please check https://github.com/hkim09/DAramp_darkening for dataset in HDF5 format.
+Please check https://doi.org/10.6084/m9.figshare.16706788 for dataset in HDF5 format.
 
 * /event : array of # of trial * # of events. First four events are [visual stimulus onset, Scene movement onset, visual stimulus offset].
 * /lick: timestamps of licks (in milisecond)
